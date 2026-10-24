@@ -1,0 +1,150 @@
+[{
+  "_id": {
+    "$oid": "6ad05e5c9dc393e5a84f5d8d"
+  },
+  "startTime": {
+    "$date": "2026-10-15T05:02:20.192Z"
+  },
+  "endTime": {
+    "$date": "2026-10-15T05:02:26.698Z"
+  },
+  "repositoriesDiscovered": 20,
+  "repositoriesScanned": 20,
+  "status": "COMPLETED",
+  "_class": "com.example.githubapiproject.model.Scan"
+},
+{
+  "_id": {
+    "$oid": "6ad1771014b40e624acc039e"
+  },
+  "startTime": {
+    "$date": "2026-10-16T01:00:00.018Z"
+  },
+  "endTime": {
+    "$date": "2026-10-16T01:00:07.064Z"
+  },
+  "repositoriesDiscovered": 20,
+  "repositoriesScanned": 21,
+  "status": "COMPLETED",
+  "_class": "com.example.githubapiproject.model.Scan"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89014b40e624acc0589"
+  },
+  "startTime": {
+    "$date": "2026-10-17T01:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2026-10-17T01:00:06.101Z"
+  },
+  "repositoriesDiscovered": 20,
+  "repositoriesScanned": 21,
+  "status": "COMPLETED",
+  "_class": "com.example.githubapiproject.model.Scan"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1014b40e624acc059f"
+  },
+  "startTime": {
+    "$date": "2026-10-18T01:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2026-10-18T01:00:06.249Z"
+  },
+  "repositoriesDiscovered": 20,
+  "repositoriesScanned": 22,
+  "status": "COMPLETED",
+  "_class": "com.example.githubapiproject.model.Scan"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9014b40e624acc05b8"
+  },
+  "startTime": {
+    "$date": "2026-10-19T01:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2026-10-19T01:00:07.060Z"
+  },
+  "repositoriesDiscovered": 20,
+  "repositoriesScanned": 23,
+  "status": "COMPLETED",
+  "_class": "com.example.githubapiproject.model.Scan"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1014b40e624acc060d"
+  },
+  "startTime": {
+    "$date": "2026-10-20T01:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2026-10-20T01:00:07.740Z"
+  },
+  "repositoriesDiscovered": 20,
+  "repositoriesScanned": 25,
+  "status": "COMPLETED",
+  "_class": "com.example.githubapiproject.model.Scan"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9014b40e624acc0629"
+  },
+  "startTime": {
+    "$date": "2026-10-21T01:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2026-10-21T01:00:08.052Z"
+  },
+  "repositoriesDiscovered": 20,
+  "repositoriesScanned": 27,
+  "status": "COMPLETED",
+  "_class": "com.example.githubapiproject.model.Scan"
+},
+{
+  "_id": {
+    "$oid": "6ad9601014b40e624acc0647"
+  },
+  "startTime": {
+    "$date": "2026-10-22T01:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2026-10-22T01:00:08.679Z"
+  },
+  "repositoriesDiscovered": 20,
+  "repositoriesScanned": 29,
+  "status": "COMPLETED",
+  "_class": "com.example.githubapiproject.model.Scan"
+},
+{
+  "_id": {
+    "$oid": "6adab19014b40e624acc0667"
+  },
+  "startTime": {
+    "$date": "2026-10-23T01:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2026-10-23T01:00:09.268Z"
+  },
+  "repositoriesDiscovered": 20,
+  "repositoriesScanned": 29,
+  "status": "COMPLETED",
+  "_class": "com.example.githubapiproject.model.Scan"
+},
+{
+  "_id": {
+    "$oid": "6adc031014b40e624acc0685"
+  },
+  "startTime": {
+    "$date": "2026-10-24T01:00:00.000Z"
+  },
+  "endTime": {
+    "$date": "2026-10-24T01:00:09.068Z"
+  },
+  "repositoriesDiscovered": 20,
+  "repositoriesScanned": 29,
+  "status": "COMPLETED",
+  "_class": "com.example.githubapiproject.model.Scan"
+}]

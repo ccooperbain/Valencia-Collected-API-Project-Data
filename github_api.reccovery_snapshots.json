@@ -1,0 +1,4917 @@
+[{
+  "_id": {
+    "$oid": "6ad05e5d9dc393e5a84f5da2"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8e",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:21.909Z"
+  },
+  "fullName": "storytold/photocraft",
+  "primaryLanguage": "Rust",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "61510"
+  },
+  "forkCount": {
+    "$numberLong": "10580"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e5e9dc393e5a84f5da3"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8f",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:22.159Z"
+  },
+  "fullName": "NandhaKishorM/laya",
+  "primaryLanguage": "Python",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "32937"
+  },
+  "forkCount": {
+    "$numberLong": "2957"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e5e9dc393e5a84f5da4"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d90",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:22.441Z"
+  },
+  "fullName": "Niko1221/Strata",
+  "primaryLanguage": "C++",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "24780"
+  },
+  "forkCount": {
+    "$numberLong": "2541"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e5e9dc393e5a84f5da5"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d91",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:22.710Z"
+  },
+  "fullName": "browser-use/jev-ultrafast",
+  "primaryLanguage": "Python",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "22935"
+  },
+  "forkCount": {
+    "$numberLong": "1703"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e5e9dc393e5a84f5da6"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d92",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:22.940Z"
+  },
+  "fullName": "robbietilton/Compositor",
+  "primaryLanguage": "Swift",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "16949"
+  },
+  "forkCount": {
+    "$numberLong": "1649"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e5f9dc393e5a84f5da7"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d93",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:23.173Z"
+  },
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "primaryLanguage": "JavaScript",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "16625"
+  },
+  "forkCount": {
+    "$numberLong": "324"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e5f9dc393e5a84f5da8"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d94",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:23.436Z"
+  },
+  "fullName": "openai/math",
+  "primaryLanguage": "Lean",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "14842"
+  },
+  "forkCount": {
+    "$numberLong": "1695"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e5f9dc393e5a84f5da9"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d95",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:23.686Z"
+  },
+  "fullName": "storytold/pdfcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "13841"
+  },
+  "forkCount": {
+    "$numberLong": "5315"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e5f9dc393e5a84f5daa"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d96",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:23.945Z"
+  },
+  "fullName": "storytold/filmcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "13404"
+  },
+  "forkCount": {
+    "$numberLong": "5480"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e609dc393e5a84f5dab"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d97",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:24.171Z"
+  },
+  "fullName": "yetone/magpie",
+  "primaryLanguage": "Go",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "12954"
+  },
+  "forkCount": {
+    "$numberLong": "892"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e609dc393e5a84f5dac"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d98",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:24.412Z"
+  },
+  "fullName": "storytold/lightcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "12656"
+  },
+  "forkCount": {
+    "$numberLong": "4674"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e609dc393e5a84f5dad"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d99",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:24.678Z"
+  },
+  "fullName": "storytold/wordcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "12562"
+  },
+  "forkCount": {
+    "$numberLong": "3177"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e609dc393e5a84f5dae"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9a",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:24.903Z"
+  },
+  "fullName": "cdyforever/how-to-live-better",
+  "primaryLanguage": "HTML",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "11918"
+  },
+  "forkCount": {
+    "$numberLong": "877"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e619dc393e5a84f5daf"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9b",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:25.138Z"
+  },
+  "fullName": "wheresryan22/anatomy",
+  "primaryLanguage": "JavaScript",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "10907"
+  },
+  "forkCount": {
+    "$numberLong": "783"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e619dc393e5a84f5db0"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9c",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:25.361Z"
+  },
+  "fullName": "shihabal3amri/DiPlay",
+  "primaryLanguage": "Kotlin",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "10710"
+  },
+  "forkCount": {
+    "$numberLong": "1353"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e619dc393e5a84f5db1"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9d",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:25.574Z"
+  },
+  "fullName": "jaredpalmer/kev",
+  "primaryLanguage": "Python",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "9144"
+  },
+  "forkCount": {
+    "$numberLong": "614"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e619dc393e5a84f5db2"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9e",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:25.844Z"
+  },
+  "fullName": "storytold/vectorcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "8948"
+  },
+  "forkCount": {
+    "$numberLong": "4282"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e629dc393e5a84f5db3"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9f",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:26.106Z"
+  },
+  "fullName": "Droid-Deck/DroidDeck",
+  "primaryLanguage": "Kotlin",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "8433"
+  },
+  "forkCount": {
+    "$numberLong": "392"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e629dc393e5a84f5db4"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da0",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:26.357Z"
+  },
+  "fullName": "zai-org/ZCode",
+  "primaryLanguage": "TypeScript",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "7832"
+  },
+  "forkCount": {
+    "$numberLong": "2408"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad05e629dc393e5a84f5db5"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da1",
+  "scanId": "6ad05e5c9dc393e5a84f5d8d",
+  "scanDate": {
+    "$date": "2026-10-15T05:02:26.694Z"
+  },
+  "fullName": "jev-chat/jev-chat-jarvis",
+  "primaryLanguage": "Kotlin",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "7751"
+  },
+  "forkCount": {
+    "$numberLong": "1267"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771114b40e624acc03a0"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d97",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:01.720Z"
+  },
+  "fullName": "yetone/magpie",
+  "primaryLanguage": "Go",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13457"
+  },
+  "forkCount": {
+    "$numberLong": "937"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771214b40e624acc03a1"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d98",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:02.001Z"
+  },
+  "fullName": "storytold/lightcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12984"
+  },
+  "forkCount": {
+    "$numberLong": "4850"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771214b40e624acc03a2"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d99",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:02.253Z"
+  },
+  "fullName": "storytold/wordcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13194"
+  },
+  "forkCount": {
+    "$numberLong": "3394"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771214b40e624acc03a3"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9a",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:02.576Z"
+  },
+  "fullName": "cdyforever/how-to-live-better",
+  "primaryLanguage": "HTML",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12072"
+  },
+  "forkCount": {
+    "$numberLong": "886"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771214b40e624acc03a4"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9b",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:02.824Z"
+  },
+  "fullName": "wheresryan22/anatomy",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12749"
+  },
+  "forkCount": {
+    "$numberLong": "922"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771314b40e624acc03a5"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9c",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:03.108Z"
+  },
+  "fullName": "shihabal3amri/DiPlay",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "10928"
+  },
+  "forkCount": {
+    "$numberLong": "1385"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771314b40e624acc03a6"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9d",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:03.373Z"
+  },
+  "fullName": "jaredpalmer/kev",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9189"
+  },
+  "forkCount": {
+    "$numberLong": "621"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771314b40e624acc03a7"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9e",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:03.635Z"
+  },
+  "fullName": "storytold/vectorcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9224"
+  },
+  "forkCount": {
+    "$numberLong": "4458"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771314b40e624acc03a8"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9f",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:03.943Z"
+  },
+  "fullName": "Droid-Deck/DroidDeck",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8962"
+  },
+  "forkCount": {
+    "$numberLong": "431"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771414b40e624acc03a9"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da0",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:04.217Z"
+  },
+  "fullName": "zai-org/ZCode",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7854"
+  },
+  "forkCount": {
+    "$numberLong": "2413"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771414b40e624acc03aa"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da1",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:04.491Z"
+  },
+  "fullName": "jev-chat/jev-chat-jarvis",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7788"
+  },
+  "forkCount": {
+    "$numberLong": "1270"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771414b40e624acc03ab"
+  },
+  "repositoryId": "6ad1771114b40e624acc039f",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:04.706Z"
+  },
+  "fullName": "rehan-remade/universal-modder",
+  "primaryLanguage": "Python",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "7939"
+  },
+  "forkCount": {
+    "$numberLong": "851"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771414b40e624acc03ac"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8e",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:04.987Z"
+  },
+  "fullName": "storytold/photocraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "63325"
+  },
+  "forkCount": {
+    "$numberLong": "11001"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771514b40e624acc03ad"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8f",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:05.208Z"
+  },
+  "fullName": "NandhaKishorM/laya",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "33047"
+  },
+  "forkCount": {
+    "$numberLong": "2969"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771514b40e624acc03ae"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d90",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:05.423Z"
+  },
+  "fullName": "Niko1221/Strata",
+  "primaryLanguage": "C++",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "25476"
+  },
+  "forkCount": {
+    "$numberLong": "2631"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771514b40e624acc03af"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d91",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:05.696Z"
+  },
+  "fullName": "browser-use/jev-ultrafast",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "23012"
+  },
+  "forkCount": {
+    "$numberLong": "1711"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771514b40e624acc03b0"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d92",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:05.958Z"
+  },
+  "fullName": "robbietilton/Compositor",
+  "primaryLanguage": "Swift",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17065"
+  },
+  "forkCount": {
+    "$numberLong": "1663"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771614b40e624acc03b1"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d93",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:06.201Z"
+  },
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17868"
+  },
+  "forkCount": {
+    "$numberLong": "361"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771614b40e624acc03b2"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d94",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:06.482Z"
+  },
+  "fullName": "openai/math",
+  "primaryLanguage": "Lean",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14944"
+  },
+  "forkCount": {
+    "$numberLong": "1714"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771614b40e624acc03b3"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d95",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:06.762Z"
+  },
+  "fullName": "storytold/pdfcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14452"
+  },
+  "forkCount": {
+    "$numberLong": "5574"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad1771714b40e624acc03b4"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d96",
+  "scanId": "6ad1771014b40e624acc039e",
+  "scanDate": {
+    "$date": "2026-10-16T01:00:07.063Z"
+  },
+  "fullName": "storytold/filmcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13859"
+  },
+  "forkCount": {
+    "$numberLong": "5705"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89114b40e624acc058a"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da0",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:01.176Z"
+  },
+  "fullName": "zai-org/ZCode",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7890"
+  },
+  "forkCount": {
+    "$numberLong": "2424"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89114b40e624acc058b"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da1",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:01.446Z"
+  },
+  "fullName": "jev-chat/jev-chat-jarvis",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7819"
+  },
+  "forkCount": {
+    "$numberLong": "1275"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89114b40e624acc058c"
+  },
+  "repositoryId": "6ad1771114b40e624acc039f",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:01.693Z"
+  },
+  "fullName": "rehan-remade/universal-modder",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8087"
+  },
+  "forkCount": {
+    "$numberLong": "872"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89114b40e624acc058d"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8e",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:01.943Z"
+  },
+  "fullName": "storytold/photocraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "65043"
+  },
+  "forkCount": {
+    "$numberLong": "11334"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89214b40e624acc058e"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8f",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:02.167Z"
+  },
+  "fullName": "NandhaKishorM/laya",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "33174"
+  },
+  "forkCount": {
+    "$numberLong": "2980"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89214b40e624acc058f"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d90",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:02.392Z"
+  },
+  "fullName": "Niko1221/Strata",
+  "primaryLanguage": "C++",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "26268"
+  },
+  "forkCount": {
+    "$numberLong": "2730"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89214b40e624acc0590"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d91",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:02.683Z"
+  },
+  "fullName": "browser-use/jev-ultrafast",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "23101"
+  },
+  "forkCount": {
+    "$numberLong": "1716"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89214b40e624acc0591"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d92",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:02.897Z"
+  },
+  "fullName": "robbietilton/Compositor",
+  "primaryLanguage": "Swift",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17190"
+  },
+  "forkCount": {
+    "$numberLong": "1681"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89314b40e624acc0592"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d93",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:03.108Z"
+  },
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "19348"
+  },
+  "forkCount": {
+    "$numberLong": "404"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89314b40e624acc0593"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d94",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:03.421Z"
+  },
+  "fullName": "openai/math",
+  "primaryLanguage": "Lean",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15034"
+  },
+  "forkCount": {
+    "$numberLong": "1729"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89314b40e624acc0594"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d95",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:03.697Z"
+  },
+  "fullName": "storytold/pdfcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15013"
+  },
+  "forkCount": {
+    "$numberLong": "5779"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89314b40e624acc0595"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d96",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:03.949Z"
+  },
+  "fullName": "storytold/filmcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14225"
+  },
+  "forkCount": {
+    "$numberLong": "5875"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89414b40e624acc0596"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d97",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:04.238Z"
+  },
+  "fullName": "yetone/magpie",
+  "primaryLanguage": "Go",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14185"
+  },
+  "forkCount": {
+    "$numberLong": "1005"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89414b40e624acc0597"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d98",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:04.500Z"
+  },
+  "fullName": "storytold/lightcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13230"
+  },
+  "forkCount": {
+    "$numberLong": "4962"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89414b40e624acc0598"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d99",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:04.746Z"
+  },
+  "fullName": "storytold/wordcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13675"
+  },
+  "forkCount": {
+    "$numberLong": "3548"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89414b40e624acc0599"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9a",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:04.957Z"
+  },
+  "fullName": "cdyforever/how-to-live-better",
+  "primaryLanguage": "HTML",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12242"
+  },
+  "forkCount": {
+    "$numberLong": "903"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89514b40e624acc059a"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9b",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:05.166Z"
+  },
+  "fullName": "wheresryan22/anatomy",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13970"
+  },
+  "forkCount": {
+    "$numberLong": "1044"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89514b40e624acc059b"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9c",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:05.391Z"
+  },
+  "fullName": "shihabal3amri/DiPlay",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "11124"
+  },
+  "forkCount": {
+    "$numberLong": "1418"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89514b40e624acc059c"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9d",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:05.601Z"
+  },
+  "fullName": "jaredpalmer/kev",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9244"
+  },
+  "forkCount": {
+    "$numberLong": "622"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89514b40e624acc059d"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9e",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:05.847Z"
+  },
+  "fullName": "storytold/vectorcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9474"
+  },
+  "forkCount": {
+    "$numberLong": "4569"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad2c89614b40e624acc059e"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9f",
+  "scanId": "6ad2c89014b40e624acc0589",
+  "scanDate": {
+    "$date": "2026-10-17T01:00:06.100Z"
+  },
+  "fullName": "Droid-Deck/DroidDeck",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9532"
+  },
+  "forkCount": {
+    "$numberLong": "477"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1114b40e624acc05a1"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d90",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:01.172Z"
+  },
+  "fullName": "Niko1221/Strata",
+  "primaryLanguage": "C++",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "26900"
+  },
+  "forkCount": {
+    "$numberLong": "2830"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1114b40e624acc05a2"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d91",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:01.445Z"
+  },
+  "fullName": "browser-use/jev-ultrafast",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "23168"
+  },
+  "forkCount": {
+    "$numberLong": "1722"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1114b40e624acc05a3"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d92",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:01.663Z"
+  },
+  "fullName": "robbietilton/Compositor",
+  "primaryLanguage": "Swift",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17303"
+  },
+  "forkCount": {
+    "$numberLong": "1688"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1114b40e624acc05a4"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d93",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:01.884Z"
+  },
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "21839"
+  },
+  "forkCount": {
+    "$numberLong": "465"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1214b40e624acc05a5"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d94",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:02.191Z"
+  },
+  "fullName": "openai/math",
+  "primaryLanguage": "Lean",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15104"
+  },
+  "forkCount": {
+    "$numberLong": "1749"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1214b40e624acc05a6"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d95",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:02.451Z"
+  },
+  "fullName": "storytold/pdfcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15501"
+  },
+  "forkCount": {
+    "$numberLong": "5962"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1214b40e624acc05a7"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d96",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:02.751Z"
+  },
+  "fullName": "storytold/filmcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14571"
+  },
+  "forkCount": {
+    "$numberLong": "6048"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1214b40e624acc05a8"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d97",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:02.988Z"
+  },
+  "fullName": "yetone/magpie",
+  "primaryLanguage": "Go",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15068"
+  },
+  "forkCount": {
+    "$numberLong": "1078"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1314b40e624acc05a9"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d98",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:03.231Z"
+  },
+  "fullName": "storytold/lightcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13480"
+  },
+  "forkCount": {
+    "$numberLong": "5098"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1314b40e624acc05aa"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d99",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:03.483Z"
+  },
+  "fullName": "storytold/wordcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14061"
+  },
+  "forkCount": {
+    "$numberLong": "3685"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1314b40e624acc05ab"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9a",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:03.704Z"
+  },
+  "fullName": "cdyforever/how-to-live-better",
+  "primaryLanguage": "HTML",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12396"
+  },
+  "forkCount": {
+    "$numberLong": "919"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1314b40e624acc05ac"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9b",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:03.918Z"
+  },
+  "fullName": "wheresryan22/anatomy",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15117"
+  },
+  "forkCount": {
+    "$numberLong": "1158"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1414b40e624acc05ad"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9c",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:04.135Z"
+  },
+  "fullName": "shihabal3amri/DiPlay",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "11311"
+  },
+  "forkCount": {
+    "$numberLong": "1442"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1414b40e624acc05ae"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9d",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:04.358Z"
+  },
+  "fullName": "jaredpalmer/kev",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9270"
+  },
+  "forkCount": {
+    "$numberLong": "625"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1414b40e624acc05af"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9e",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:04.610Z"
+  },
+  "fullName": "storytold/vectorcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9674"
+  },
+  "forkCount": {
+    "$numberLong": "4691"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1414b40e624acc05b0"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9f",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:04.862Z"
+  },
+  "fullName": "Droid-Deck/DroidDeck",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "10189"
+  },
+  "forkCount": {
+    "$numberLong": "512"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1514b40e624acc05b1"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da0",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:05.092Z"
+  },
+  "fullName": "zai-org/ZCode",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7910"
+  },
+  "forkCount": {
+    "$numberLong": "2439"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1514b40e624acc05b2"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da1",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:05.341Z"
+  },
+  "fullName": "jev-chat/jev-chat-jarvis",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7865"
+  },
+  "forkCount": {
+    "$numberLong": "1275"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1514b40e624acc05b3"
+  },
+  "repositoryId": "6ad1771114b40e624acc039f",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:05.588Z"
+  },
+  "fullName": "rehan-remade/universal-modder",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8242"
+  },
+  "forkCount": {
+    "$numberLong": "896"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1514b40e624acc05b4"
+  },
+  "repositoryId": "6ad41a1014b40e624acc05a0",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:05.789Z"
+  },
+  "fullName": "KKKKhazix/AIHOT",
+  "primaryLanguage": "TypeScript",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "7949"
+  },
+  "forkCount": {
+    "$numberLong": "1925"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1614b40e624acc05b5"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8e",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:06.027Z"
+  },
+  "fullName": "storytold/photocraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "66425"
+  },
+  "forkCount": {
+    "$numberLong": "11608"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad41a1614b40e624acc05b6"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8f",
+  "scanId": "6ad41a1014b40e624acc059f",
+  "scanDate": {
+    "$date": "2026-10-18T01:00:06.247Z"
+  },
+  "fullName": "NandhaKishorM/laya",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "33274"
+  },
+  "forkCount": {
+    "$numberLong": "2985"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9114b40e624acc05ba"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d93",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:01.208Z"
+  },
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "24786"
+  },
+  "forkCount": {
+    "$numberLong": "532"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9114b40e624acc05bb"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d94",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:01.558Z"
+  },
+  "fullName": "openai/math",
+  "primaryLanguage": "Lean",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15172"
+  },
+  "forkCount": {
+    "$numberLong": "1762"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9114b40e624acc05bc"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d95",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:01.872Z"
+  },
+  "fullName": "storytold/pdfcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15903"
+  },
+  "forkCount": {
+    "$numberLong": "6152"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9214b40e624acc05bd"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d96",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:02.223Z"
+  },
+  "fullName": "storytold/filmcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14845"
+  },
+  "forkCount": {
+    "$numberLong": "6199"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9214b40e624acc05be"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d97",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:02.456Z"
+  },
+  "fullName": "yetone/magpie",
+  "primaryLanguage": "Go",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15953"
+  },
+  "forkCount": {
+    "$numberLong": "1150"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9214b40e624acc05bf"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d98",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:02.721Z"
+  },
+  "fullName": "storytold/lightcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13694"
+  },
+  "forkCount": {
+    "$numberLong": "5200"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9314b40e624acc05c0"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d99",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:03.020Z"
+  },
+  "fullName": "storytold/wordcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14398"
+  },
+  "forkCount": {
+    "$numberLong": "3826"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9314b40e624acc05c1"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9a",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:03.222Z"
+  },
+  "fullName": "cdyforever/how-to-live-better",
+  "primaryLanguage": "HTML",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12543"
+  },
+  "forkCount": {
+    "$numberLong": "931"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9314b40e624acc05c2"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9b",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:03.472Z"
+  },
+  "fullName": "wheresryan22/anatomy",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "16019"
+  },
+  "forkCount": {
+    "$numberLong": "1230"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9314b40e624acc05c3"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9c",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:03.747Z"
+  },
+  "fullName": "shihabal3amri/DiPlay",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "11485"
+  },
+  "forkCount": {
+    "$numberLong": "1460"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9314b40e624acc05c4"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9d",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:03.960Z"
+  },
+  "fullName": "jaredpalmer/kev",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9294"
+  },
+  "forkCount": {
+    "$numberLong": "627"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9414b40e624acc05c5"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9e",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:04.250Z"
+  },
+  "fullName": "storytold/vectorcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9844"
+  },
+  "forkCount": {
+    "$numberLong": "4811"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9414b40e624acc05c6"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9f",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:04.518Z"
+  },
+  "fullName": "Droid-Deck/DroidDeck",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "10833"
+  },
+  "forkCount": {
+    "$numberLong": "544"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9414b40e624acc05c7"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da0",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:04.771Z"
+  },
+  "fullName": "zai-org/ZCode",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7932"
+  },
+  "forkCount": {
+    "$numberLong": "2445"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9514b40e624acc05c8"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da1",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:05.054Z"
+  },
+  "fullName": "jev-chat/jev-chat-jarvis",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7885"
+  },
+  "forkCount": {
+    "$numberLong": "1278"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9514b40e624acc05c9"
+  },
+  "repositoryId": "6ad1771114b40e624acc039f",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:05.270Z"
+  },
+  "fullName": "rehan-remade/universal-modder",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8348"
+  },
+  "forkCount": {
+    "$numberLong": "911"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9514b40e624acc05ca"
+  },
+  "repositoryId": "6ad41a1014b40e624acc05a0",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:05.474Z"
+  },
+  "fullName": "KKKKhazix/AIHOT",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8014"
+  },
+  "forkCount": {
+    "$numberLong": "1949"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9514b40e624acc05cb"
+  },
+  "repositoryId": "6ad56b9014b40e624acc05b9",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:05.779Z"
+  },
+  "fullName": "storytold/effectcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "7317"
+  },
+  "forkCount": {
+    "$numberLong": "3893"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9614b40e624acc05cc"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8e",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:06.071Z"
+  },
+  "fullName": "storytold/photocraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "67494"
+  },
+  "forkCount": {
+    "$numberLong": "11872"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9614b40e624acc05cd"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8f",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:06.317Z"
+  },
+  "fullName": "NandhaKishorM/laya",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "33398"
+  },
+  "forkCount": {
+    "$numberLong": "3001"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9614b40e624acc05ce"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d90",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:06.527Z"
+  },
+  "fullName": "Niko1221/Strata",
+  "primaryLanguage": "C++",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "27475"
+  },
+  "forkCount": {
+    "$numberLong": "2908"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9614b40e624acc05cf"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d91",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:06.806Z"
+  },
+  "fullName": "browser-use/jev-ultrafast",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "23221"
+  },
+  "forkCount": {
+    "$numberLong": "1728"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad56b9714b40e624acc05d0"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d92",
+  "scanId": "6ad56b9014b40e624acc05b8",
+  "scanDate": {
+    "$date": "2026-10-19T01:00:07.059Z"
+  },
+  "fullName": "robbietilton/Compositor",
+  "primaryLanguage": "Swift",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17384"
+  },
+  "forkCount": {
+    "$numberLong": "1700"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1114b40e624acc0610"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8e",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:01.328Z"
+  },
+  "fullName": "storytold/photocraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "68578"
+  },
+  "forkCount": {
+    "$numberLong": "12087"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1114b40e624acc0611"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8f",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:01.556Z"
+  },
+  "fullName": "NandhaKishorM/laya",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "33558"
+  },
+  "forkCount": {
+    "$numberLong": "3017"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1114b40e624acc0612"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d90",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:01.778Z"
+  },
+  "fullName": "Niko1221/Strata",
+  "primaryLanguage": "C++",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "28293"
+  },
+  "forkCount": {
+    "$numberLong": "2997"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1214b40e624acc0613"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d91",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:02.213Z"
+  },
+  "fullName": "browser-use/jev-ultrafast",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "23294"
+  },
+  "forkCount": {
+    "$numberLong": "1734"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1214b40e624acc0614"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d92",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:02.460Z"
+  },
+  "fullName": "robbietilton/Compositor",
+  "primaryLanguage": "Swift",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17469"
+  },
+  "forkCount": {
+    "$numberLong": "1712"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1214b40e624acc0615"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d93",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:02.770Z"
+  },
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "27750"
+  },
+  "forkCount": {
+    "$numberLong": "592"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1314b40e624acc0616"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d94",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:03.040Z"
+  },
+  "fullName": "openai/math",
+  "primaryLanguage": "Lean",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15227"
+  },
+  "forkCount": {
+    "$numberLong": "1774"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1314b40e624acc0617"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d95",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:03.355Z"
+  },
+  "fullName": "storytold/pdfcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "16301"
+  },
+  "forkCount": {
+    "$numberLong": "6296"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1314b40e624acc0618"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d96",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:03.653Z"
+  },
+  "fullName": "storytold/filmcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15108"
+  },
+  "forkCount": {
+    "$numberLong": "6316"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1314b40e624acc0619"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d97",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:03.881Z"
+  },
+  "fullName": "yetone/magpie",
+  "primaryLanguage": "Go",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17015"
+  },
+  "forkCount": {
+    "$numberLong": "1226"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1414b40e624acc061a"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d98",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:04.173Z"
+  },
+  "fullName": "storytold/lightcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13908"
+  },
+  "forkCount": {
+    "$numberLong": "5302"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1414b40e624acc061b"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d99",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:04.466Z"
+  },
+  "fullName": "storytold/wordcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14766"
+  },
+  "forkCount": {
+    "$numberLong": "3952"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1414b40e624acc061c"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9a",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:04.710Z"
+  },
+  "fullName": "cdyforever/how-to-live-better",
+  "primaryLanguage": "HTML",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12698"
+  },
+  "forkCount": {
+    "$numberLong": "944"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1414b40e624acc061d"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9b",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:04.923Z"
+  },
+  "fullName": "wheresryan22/anatomy",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "16864"
+  },
+  "forkCount": {
+    "$numberLong": "1285"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1514b40e624acc061e"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9c",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:05.124Z"
+  },
+  "fullName": "shihabal3amri/DiPlay",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "11673"
+  },
+  "forkCount": {
+    "$numberLong": "1485"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1514b40e624acc061f"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9d",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:05.342Z"
+  },
+  "fullName": "jaredpalmer/kev",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9328"
+  },
+  "forkCount": {
+    "$numberLong": "629"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1514b40e624acc0620"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9e",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:05.647Z"
+  },
+  "fullName": "storytold/vectorcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "10032"
+  },
+  "forkCount": {
+    "$numberLong": "4901"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1514b40e624acc0621"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9f",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:05.904Z"
+  },
+  "fullName": "Droid-Deck/DroidDeck",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "11397"
+  },
+  "forkCount": {
+    "$numberLong": "578"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1614b40e624acc0622"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da0",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:06.175Z"
+  },
+  "fullName": "zai-org/ZCode",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7996"
+  },
+  "forkCount": {
+    "$numberLong": "2456"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1614b40e624acc0623"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da1",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:06.415Z"
+  },
+  "fullName": "jev-chat/jev-chat-jarvis",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7918"
+  },
+  "forkCount": {
+    "$numberLong": "1285"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1614b40e624acc0624"
+  },
+  "repositoryId": "6ad1771114b40e624acc039f",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:06.698Z"
+  },
+  "fullName": "rehan-remade/universal-modder",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8456"
+  },
+  "forkCount": {
+    "$numberLong": "931"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1614b40e624acc0625"
+  },
+  "repositoryId": "6ad41a1014b40e624acc05a0",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:06.903Z"
+  },
+  "fullName": "KKKKhazix/AIHOT",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8090"
+  },
+  "forkCount": {
+    "$numberLong": "1969"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1714b40e624acc0626"
+  },
+  "repositoryId": "6ad56b9014b40e624acc05b9",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:07.178Z"
+  },
+  "fullName": "storytold/effectcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7430"
+  },
+  "forkCount": {
+    "$numberLong": "3954"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1714b40e624acc0627"
+  },
+  "repositoryId": "6ad6bd1114b40e624acc060e",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:07.480Z"
+  },
+  "fullName": "google-research/harness2",
+  "primaryLanguage": "Python",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "11861"
+  },
+  "forkCount": {
+    "$numberLong": "1075"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad6bd1714b40e624acc0628"
+  },
+  "repositoryId": "6ad6bd1114b40e624acc060f",
+  "scanId": "6ad6bd1014b40e624acc060d",
+  "scanDate": {
+    "$date": "2026-10-20T01:00:07.739Z"
+  },
+  "fullName": "tangency-labs/solidcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "7299"
+  },
+  "forkCount": {
+    "$numberLong": "821"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9114b40e624acc062c"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da0",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:01.282Z"
+  },
+  "fullName": "zai-org/ZCode",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8046"
+  },
+  "forkCount": {
+    "$numberLong": "2465"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9114b40e624acc062d"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da1",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:01.553Z"
+  },
+  "fullName": "jev-chat/jev-chat-jarvis",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7934"
+  },
+  "forkCount": {
+    "$numberLong": "1287"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9114b40e624acc062e"
+  },
+  "repositoryId": "6ad1771114b40e624acc039f",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:01.770Z"
+  },
+  "fullName": "rehan-remade/universal-modder",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8545"
+  },
+  "forkCount": {
+    "$numberLong": "943"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9114b40e624acc062f"
+  },
+  "repositoryId": "6ad41a1014b40e624acc05a0",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:01.991Z"
+  },
+  "fullName": "KKKKhazix/AIHOT",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8188"
+  },
+  "forkCount": {
+    "$numberLong": "1967"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9214b40e624acc0630"
+  },
+  "repositoryId": "6ad56b9014b40e624acc05b9",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:02.273Z"
+  },
+  "fullName": "storytold/effectcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7535"
+  },
+  "forkCount": {
+    "$numberLong": "4012"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9214b40e624acc0631"
+  },
+  "repositoryId": "6ad6bd1114b40e624acc060e",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:02.569Z"
+  },
+  "fullName": "google-research/harness2",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15417"
+  },
+  "forkCount": {
+    "$numberLong": "1416"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9214b40e624acc0632"
+  },
+  "repositoryId": "6ad6bd1114b40e624acc060f",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:02.807Z"
+  },
+  "fullName": "tangency-labs/solidcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8287"
+  },
+  "forkCount": {
+    "$numberLong": "957"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9314b40e624acc0633"
+  },
+  "repositoryId": "6ad80e9114b40e624acc062a",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:03.061Z"
+  },
+  "fullName": "deepseek-ai/DeepInfer",
+  "primaryLanguage": "Python",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "12423"
+  },
+  "forkCount": {
+    "$numberLong": "1131"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9314b40e624acc0634"
+  },
+  "repositoryId": "6ad80e9114b40e624acc062b",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:03.254Z"
+  },
+  "fullName": "Gathin23/cleanyourtv",
+  "primaryLanguage": "Java",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "11875"
+  },
+  "forkCount": {
+    "$numberLong": "1347"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9314b40e624acc0635"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8e",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:03.540Z"
+  },
+  "fullName": "storytold/photocraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "69676"
+  },
+  "forkCount": {
+    "$numberLong": "12293"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9314b40e624acc0636"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8f",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:03.780Z"
+  },
+  "fullName": "NandhaKishorM/laya",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "33708"
+  },
+  "forkCount": {
+    "$numberLong": "3030"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9414b40e624acc0637"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d90",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:04.062Z"
+  },
+  "fullName": "Niko1221/Strata",
+  "primaryLanguage": "C++",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "29225"
+  },
+  "forkCount": {
+    "$numberLong": "3088"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9414b40e624acc0638"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d91",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:04.376Z"
+  },
+  "fullName": "browser-use/jev-ultrafast",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "23339"
+  },
+  "forkCount": {
+    "$numberLong": "1741"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9414b40e624acc0639"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d92",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:04.622Z"
+  },
+  "fullName": "robbietilton/Compositor",
+  "primaryLanguage": "Swift",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17561"
+  },
+  "forkCount": {
+    "$numberLong": "1726"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9414b40e624acc063a"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d93",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:04.844Z"
+  },
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "30882"
+  },
+  "forkCount": {
+    "$numberLong": "643"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9514b40e624acc063b"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d94",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:05.178Z"
+  },
+  "fullName": "openai/math",
+  "primaryLanguage": "Lean",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15303"
+  },
+  "forkCount": {
+    "$numberLong": "1783"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9514b40e624acc063c"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d95",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:05.485Z"
+  },
+  "fullName": "storytold/pdfcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "16658"
+  },
+  "forkCount": {
+    "$numberLong": "6432"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9514b40e624acc063d"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d96",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:05.766Z"
+  },
+  "fullName": "storytold/filmcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15327"
+  },
+  "forkCount": {
+    "$numberLong": "6436"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9514b40e624acc063e"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d97",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:05.986Z"
+  },
+  "fullName": "yetone/magpie",
+  "primaryLanguage": "Go",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17963"
+  },
+  "forkCount": {
+    "$numberLong": "1301"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9614b40e624acc063f"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d98",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:06.283Z"
+  },
+  "fullName": "storytold/lightcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14050"
+  },
+  "forkCount": {
+    "$numberLong": "5385"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9614b40e624acc0640"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d99",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:06.551Z"
+  },
+  "fullName": "storytold/wordcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15069"
+  },
+  "forkCount": {
+    "$numberLong": "4058"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9614b40e624acc0641"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9a",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:06.799Z"
+  },
+  "fullName": "cdyforever/how-to-live-better",
+  "primaryLanguage": "HTML",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12869"
+  },
+  "forkCount": {
+    "$numberLong": "960"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9714b40e624acc0642"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9b",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:07.039Z"
+  },
+  "fullName": "wheresryan22/anatomy",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17589"
+  },
+  "forkCount": {
+    "$numberLong": "1352"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9714b40e624acc0643"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9c",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:07.280Z"
+  },
+  "fullName": "shihabal3amri/DiPlay",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "11823"
+  },
+  "forkCount": {
+    "$numberLong": "1511"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9714b40e624acc0644"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9d",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:07.505Z"
+  },
+  "fullName": "jaredpalmer/kev",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9376"
+  },
+  "forkCount": {
+    "$numberLong": "636"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9714b40e624acc0645"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9e",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:07.791Z"
+  },
+  "fullName": "storytold/vectorcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "10192"
+  },
+  "forkCount": {
+    "$numberLong": "4981"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad80e9814b40e624acc0646"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9f",
+  "scanId": "6ad80e9014b40e624acc0629",
+  "scanDate": {
+    "$date": "2026-10-21T01:00:08.052Z"
+  },
+  "fullName": "Droid-Deck/DroidDeck",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "11808"
+  },
+  "forkCount": {
+    "$numberLong": "605"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601114b40e624acc064a"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d95",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:01.367Z"
+  },
+  "fullName": "storytold/pdfcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "16988"
+  },
+  "forkCount": {
+    "$numberLong": "6547"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601114b40e624acc064b"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d96",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:01.695Z"
+  },
+  "fullName": "storytold/filmcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15564"
+  },
+  "forkCount": {
+    "$numberLong": "6552"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601114b40e624acc064c"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d97",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:01.917Z"
+  },
+  "fullName": "yetone/magpie",
+  "primaryLanguage": "Go",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "18794"
+  },
+  "forkCount": {
+    "$numberLong": "1391"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601214b40e624acc064d"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d98",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:02.198Z"
+  },
+  "fullName": "storytold/lightcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14215"
+  },
+  "forkCount": {
+    "$numberLong": "5463"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601214b40e624acc064e"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d99",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:02.487Z"
+  },
+  "fullName": "storytold/wordcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15350"
+  },
+  "forkCount": {
+    "$numberLong": "4150"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601214b40e624acc064f"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9a",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:02.726Z"
+  },
+  "fullName": "cdyforever/how-to-live-better",
+  "primaryLanguage": "HTML",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12986"
+  },
+  "forkCount": {
+    "$numberLong": "968"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601214b40e624acc0650"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9b",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:02.955Z"
+  },
+  "fullName": "wheresryan22/anatomy",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "18544"
+  },
+  "forkCount": {
+    "$numberLong": "1434"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601314b40e624acc0651"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9c",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:03.210Z"
+  },
+  "fullName": "shihabal3amri/DiPlay",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "11969"
+  },
+  "forkCount": {
+    "$numberLong": "1533"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601314b40e624acc0652"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9d",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:03.451Z"
+  },
+  "fullName": "jaredpalmer/kev",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9421"
+  },
+  "forkCount": {
+    "$numberLong": "639"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601314b40e624acc0653"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9e",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:03.730Z"
+  },
+  "fullName": "storytold/vectorcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "10335"
+  },
+  "forkCount": {
+    "$numberLong": "5060"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601414b40e624acc0654"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9f",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:04.045Z"
+  },
+  "fullName": "Droid-Deck/DroidDeck",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12261"
+  },
+  "forkCount": {
+    "$numberLong": "631"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601414b40e624acc0655"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da0",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:04.294Z"
+  },
+  "fullName": "zai-org/ZCode",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8080"
+  },
+  "forkCount": {
+    "$numberLong": "2474"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601414b40e624acc0656"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da1",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:04.584Z"
+  },
+  "fullName": "jev-chat/jev-chat-jarvis",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7965"
+  },
+  "forkCount": {
+    "$numberLong": "1290"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601414b40e624acc0657"
+  },
+  "repositoryId": "6ad1771114b40e624acc039f",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:04.820Z"
+  },
+  "fullName": "rehan-remade/universal-modder",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8634"
+  },
+  "forkCount": {
+    "$numberLong": "948"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601514b40e624acc0658"
+  },
+  "repositoryId": "6ad41a1014b40e624acc05a0",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:05.046Z"
+  },
+  "fullName": "KKKKhazix/AIHOT",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8359"
+  },
+  "forkCount": {
+    "$numberLong": "2003"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601514b40e624acc0659"
+  },
+  "repositoryId": "6ad56b9014b40e624acc05b9",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:05.322Z"
+  },
+  "fullName": "storytold/effectcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7631"
+  },
+  "forkCount": {
+    "$numberLong": "4083"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601514b40e624acc065a"
+  },
+  "repositoryId": "6ad6bd1114b40e624acc060e",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:05.628Z"
+  },
+  "fullName": "google-research/harness2",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17234"
+  },
+  "forkCount": {
+    "$numberLong": "1598"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601514b40e624acc065b"
+  },
+  "repositoryId": "6ad6bd1114b40e624acc060f",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:05.897Z"
+  },
+  "fullName": "tangency-labs/solidcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8895"
+  },
+  "forkCount": {
+    "$numberLong": "1044"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601614b40e624acc065c"
+  },
+  "repositoryId": "6ad80e9114b40e624acc062a",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:06.169Z"
+  },
+  "fullName": "deepseek-ai/DeepInfer",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17898"
+  },
+  "forkCount": {
+    "$numberLong": "1835"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601614b40e624acc065d"
+  },
+  "repositoryId": "6ad80e9114b40e624acc062b",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:06.436Z"
+  },
+  "fullName": "Gathin23/cleanyourtv",
+  "primaryLanguage": "Java",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "19239"
+  },
+  "forkCount": {
+    "$numberLong": "2079"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601614b40e624acc065e"
+  },
+  "repositoryId": "6ad9601114b40e624acc0648",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:06.628Z"
+  },
+  "fullName": "KnifeLemon/Filee",
+  "primaryLanguage": "C#",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "9130"
+  },
+  "forkCount": {
+    "$numberLong": "580"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601614b40e624acc065f"
+  },
+  "repositoryId": "6ad9601114b40e624acc0649",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:06.838Z"
+  },
+  "fullName": "yihui-dev/awesome-opus5-5-videos",
+  "newRepository": true,
+  "starCount": {
+    "$numberLong": "8513"
+  },
+  "forkCount": {
+    "$numberLong": "858"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601714b40e624acc0660"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8e",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:07.142Z"
+  },
+  "fullName": "storytold/photocraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "70646"
+  },
+  "forkCount": {
+    "$numberLong": "12452"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601714b40e624acc0661"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8f",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:07.388Z"
+  },
+  "fullName": "NandhaKishorM/laya",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "33861"
+  },
+  "forkCount": {
+    "$numberLong": "3042"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601714b40e624acc0662"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d90",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:07.618Z"
+  },
+  "fullName": "Niko1221/Strata",
+  "primaryLanguage": "C++",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "29947"
+  },
+  "forkCount": {
+    "$numberLong": "3184"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601714b40e624acc0663"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d91",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:07.899Z"
+  },
+  "fullName": "browser-use/jev-ultrafast",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "23421"
+  },
+  "forkCount": {
+    "$numberLong": "1756"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601814b40e624acc0664"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d92",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:08.103Z"
+  },
+  "fullName": "robbietilton/Compositor",
+  "primaryLanguage": "Swift",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17660"
+  },
+  "forkCount": {
+    "$numberLong": "1739"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601814b40e624acc0665"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d93",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:08.355Z"
+  },
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "33879"
+  },
+  "forkCount": {
+    "$numberLong": "905"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6ad9601814b40e624acc0666"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d94",
+  "scanId": "6ad9601014b40e624acc0647",
+  "scanDate": {
+    "$date": "2026-10-22T01:00:08.678Z"
+  },
+  "fullName": "openai/math",
+  "primaryLanguage": "Lean",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15348"
+  },
+  "forkCount": {
+    "$numberLong": "1795"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19114b40e624acc0668"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d96",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:01.486Z"
+  },
+  "fullName": "storytold/filmcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15750"
+  },
+  "forkCount": {
+    "$numberLong": "6617"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19114b40e624acc0669"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d97",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:01.771Z"
+  },
+  "fullName": "yetone/magpie",
+  "primaryLanguage": "Go",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "19536"
+  },
+  "forkCount": {
+    "$numberLong": "1478"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19214b40e624acc066a"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d98",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:02.064Z"
+  },
+  "fullName": "storytold/lightcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14332"
+  },
+  "forkCount": {
+    "$numberLong": "5516"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19214b40e624acc066b"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d99",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:02.325Z"
+  },
+  "fullName": "storytold/wordcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15545"
+  },
+  "forkCount": {
+    "$numberLong": "4216"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19214b40e624acc066c"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9a",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:02.592Z"
+  },
+  "fullName": "cdyforever/how-to-live-better",
+  "primaryLanguage": "HTML",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13064"
+  },
+  "forkCount": {
+    "$numberLong": "974"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19214b40e624acc066d"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9b",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:02.822Z"
+  },
+  "fullName": "wheresryan22/anatomy",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "19156"
+  },
+  "forkCount": {
+    "$numberLong": "1498"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19314b40e624acc066e"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9c",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:03.056Z"
+  },
+  "fullName": "shihabal3amri/DiPlay",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12076"
+  },
+  "forkCount": {
+    "$numberLong": "1542"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19314b40e624acc066f"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9d",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:03.314Z"
+  },
+  "fullName": "jaredpalmer/kev",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9458"
+  },
+  "forkCount": {
+    "$numberLong": "642"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19314b40e624acc0670"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9e",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:03.614Z"
+  },
+  "fullName": "storytold/vectorcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "10445"
+  },
+  "forkCount": {
+    "$numberLong": "5110"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19314b40e624acc0671"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9f",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:03.906Z"
+  },
+  "fullName": "Droid-Deck/DroidDeck",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12728"
+  },
+  "forkCount": {
+    "$numberLong": "651"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19414b40e624acc0672"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da0",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:04.158Z"
+  },
+  "fullName": "zai-org/ZCode",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8122"
+  },
+  "forkCount": {
+    "$numberLong": "2487"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19414b40e624acc0673"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da1",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:04.425Z"
+  },
+  "fullName": "jev-chat/jev-chat-jarvis",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7997"
+  },
+  "forkCount": {
+    "$numberLong": "1293"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19414b40e624acc0674"
+  },
+  "repositoryId": "6ad1771114b40e624acc039f",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:04.649Z"
+  },
+  "fullName": "rehan-remade/universal-modder",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8721"
+  },
+  "forkCount": {
+    "$numberLong": "960"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19414b40e624acc0675"
+  },
+  "repositoryId": "6ad41a1014b40e624acc05a0",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:04.886Z"
+  },
+  "fullName": "KKKKhazix/AIHOT",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8432"
+  },
+  "forkCount": {
+    "$numberLong": "2014"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19514b40e624acc0676"
+  },
+  "repositoryId": "6ad56b9014b40e624acc05b9",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:05.240Z"
+  },
+  "fullName": "storytold/effectcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7701"
+  },
+  "forkCount": {
+    "$numberLong": "4127"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19514b40e624acc0677"
+  },
+  "repositoryId": "6ad6bd1114b40e624acc060e",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:05.550Z"
+  },
+  "fullName": "google-research/harness2",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17997"
+  },
+  "forkCount": {
+    "$numberLong": "1743"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19514b40e624acc0678"
+  },
+  "repositoryId": "6ad6bd1114b40e624acc060f",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:05.881Z"
+  },
+  "fullName": "tangency-labs/solidcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9335"
+  },
+  "forkCount": {
+    "$numberLong": "1119"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19614b40e624acc0679"
+  },
+  "repositoryId": "6ad80e9114b40e624acc062a",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:06.157Z"
+  },
+  "fullName": "deepseek-ai/DeepInfer",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "19881"
+  },
+  "forkCount": {
+    "$numberLong": "2120"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19614b40e624acc067a"
+  },
+  "repositoryId": "6ad80e9114b40e624acc062b",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:06.417Z"
+  },
+  "fullName": "Gathin23/cleanyourtv",
+  "primaryLanguage": "Java",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "24108"
+  },
+  "forkCount": {
+    "$numberLong": "2644"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19614b40e624acc067b"
+  },
+  "repositoryId": "6ad9601114b40e624acc0648",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:06.803Z"
+  },
+  "fullName": "KnifeLemon/Filee",
+  "primaryLanguage": "C#",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "10148"
+  },
+  "forkCount": {
+    "$numberLong": "658"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19714b40e624acc067c"
+  },
+  "repositoryId": "6ad9601114b40e624acc0649",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:07.058Z"
+  },
+  "fullName": "yihui-dev/awesome-opus5-5-videos",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9265"
+  },
+  "forkCount": {
+    "$numberLong": "933"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19714b40e624acc067d"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8e",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:07.400Z"
+  },
+  "fullName": "storytold/photocraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "71372"
+  },
+  "forkCount": {
+    "$numberLong": "12592"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19714b40e624acc067e"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8f",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:07.638Z"
+  },
+  "fullName": "NandhaKishorM/laya",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "33987"
+  },
+  "forkCount": {
+    "$numberLong": "3059"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19714b40e624acc067f"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d90",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:07.844Z"
+  },
+  "fullName": "Niko1221/Strata",
+  "primaryLanguage": "C++",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "30613"
+  },
+  "forkCount": {
+    "$numberLong": "3265"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19814b40e624acc0680"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d91",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:08.116Z"
+  },
+  "fullName": "browser-use/jev-ultrafast",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "23496"
+  },
+  "forkCount": {
+    "$numberLong": "1768"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19814b40e624acc0681"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d92",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:08.377Z"
+  },
+  "fullName": "robbietilton/Compositor",
+  "primaryLanguage": "Swift",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17723"
+  },
+  "forkCount": {
+    "$numberLong": "1749"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19814b40e624acc0682"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d93",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:08.669Z"
+  },
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "36784"
+  },
+  "forkCount": {
+    "$numberLong": "1055"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19814b40e624acc0683"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d94",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:08.952Z"
+  },
+  "fullName": "openai/math",
+  "primaryLanguage": "Lean",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15392"
+  },
+  "forkCount": {
+    "$numberLong": "1803"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adab19914b40e624acc0684"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d95",
+  "scanId": "6adab19014b40e624acc0667",
+  "scanDate": {
+    "$date": "2026-10-23T01:00:09.267Z"
+  },
+  "fullName": "storytold/pdfcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17228"
+  },
+  "forkCount": {
+    "$numberLong": "6627"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031114b40e624acc0686"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d97",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:01.601Z"
+  },
+  "fullName": "yetone/magpie",
+  "primaryLanguage": "Go",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "20218"
+  },
+  "forkCount": {
+    "$numberLong": "1559"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031114b40e624acc0687"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d98",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:01.891Z"
+  },
+  "fullName": "storytold/lightcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "14455"
+  },
+  "forkCount": {
+    "$numberLong": "5556"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031214b40e624acc0688"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d99",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:02.215Z"
+  },
+  "fullName": "storytold/wordcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15757"
+  },
+  "forkCount": {
+    "$numberLong": "4277"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031214b40e624acc0689"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9a",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:02.461Z"
+  },
+  "fullName": "cdyforever/how-to-live-better",
+  "primaryLanguage": "HTML",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13159"
+  },
+  "forkCount": {
+    "$numberLong": "978"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031214b40e624acc068a"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9b",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:02.720Z"
+  },
+  "fullName": "wheresryan22/anatomy",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "19683"
+  },
+  "forkCount": {
+    "$numberLong": "1543"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031214b40e624acc068b"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9c",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:02.966Z"
+  },
+  "fullName": "shihabal3amri/DiPlay",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "12167"
+  },
+  "forkCount": {
+    "$numberLong": "1551"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031314b40e624acc068c"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9d",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:03.207Z"
+  },
+  "fullName": "jaredpalmer/kev",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9482"
+  },
+  "forkCount": {
+    "$numberLong": "644"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031314b40e624acc068d"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9e",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:03.455Z"
+  },
+  "fullName": "storytold/vectorcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "10526"
+  },
+  "forkCount": {
+    "$numberLong": "5148"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031314b40e624acc068e"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d9f",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:03.745Z"
+  },
+  "fullName": "Droid-Deck/DroidDeck",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "13307"
+  },
+  "forkCount": {
+    "$numberLong": "680"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031314b40e624acc068f"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da0",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:03.980Z"
+  },
+  "fullName": "zai-org/ZCode",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8167"
+  },
+  "forkCount": {
+    "$numberLong": "2511"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031414b40e624acc0690"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5da1",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:04.218Z"
+  },
+  "fullName": "jev-chat/jev-chat-jarvis",
+  "primaryLanguage": "Kotlin",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8029"
+  },
+  "forkCount": {
+    "$numberLong": "1293"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031414b40e624acc0691"
+  },
+  "repositoryId": "6ad1771114b40e624acc039f",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:04.420Z"
+  },
+  "fullName": "rehan-remade/universal-modder",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8818"
+  },
+  "forkCount": {
+    "$numberLong": "968"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031414b40e624acc0692"
+  },
+  "repositoryId": "6ad41a1014b40e624acc05a0",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:04.638Z"
+  },
+  "fullName": "KKKKhazix/AIHOT",
+  "primaryLanguage": "TypeScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "8506"
+  },
+  "forkCount": {
+    "$numberLong": "2032"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031414b40e624acc0693"
+  },
+  "repositoryId": "6ad56b9014b40e624acc05b9",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:04.987Z"
+  },
+  "fullName": "storytold/effectcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "7782"
+  },
+  "forkCount": {
+    "$numberLong": "4164"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031514b40e624acc0694"
+  },
+  "repositoryId": "6ad6bd1114b40e624acc060e",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:05.340Z"
+  },
+  "fullName": "google-research/harness2",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "18578"
+  },
+  "forkCount": {
+    "$numberLong": "1806"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031514b40e624acc0695"
+  },
+  "repositoryId": "6ad6bd1114b40e624acc060f",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:05.590Z"
+  },
+  "fullName": "tangency-labs/solidcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9727"
+  },
+  "forkCount": {
+    "$numberLong": "1179"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031514b40e624acc0696"
+  },
+  "repositoryId": "6ad80e9114b40e624acc062a",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:05.860Z"
+  },
+  "fullName": "deepseek-ai/DeepInfer",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "21131"
+  },
+  "forkCount": {
+    "$numberLong": "2341"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031614b40e624acc0697"
+  },
+  "repositoryId": "6ad80e9114b40e624acc062b",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:06.067Z"
+  },
+  "fullName": "Gathin23/cleanyourtv",
+  "primaryLanguage": "Java",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "27991"
+  },
+  "forkCount": {
+    "$numberLong": "3154"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031614b40e624acc0698"
+  },
+  "repositoryId": "6ad9601114b40e624acc0648",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:06.328Z"
+  },
+  "fullName": "KnifeLemon/Filee",
+  "primaryLanguage": "C#",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "11037"
+  },
+  "forkCount": {
+    "$numberLong": "713"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031614b40e624acc0699"
+  },
+  "repositoryId": "6ad9601114b40e624acc0649",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:06.543Z"
+  },
+  "fullName": "yihui-dev/awesome-opus5-5-videos",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "9884"
+  },
+  "forkCount": {
+    "$numberLong": "1024"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031614b40e624acc069a"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8e",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:06.851Z"
+  },
+  "fullName": "storytold/photocraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "71962"
+  },
+  "forkCount": {
+    "$numberLong": "12710"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031714b40e624acc069b"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d8f",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:07.137Z"
+  },
+  "fullName": "NandhaKishorM/laya",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "34105"
+  },
+  "forkCount": {
+    "$numberLong": "3070"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031714b40e624acc069c"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d90",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:07.375Z"
+  },
+  "fullName": "Niko1221/Strata",
+  "primaryLanguage": "C++",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "31185"
+  },
+  "forkCount": {
+    "$numberLong": "3343"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031714b40e624acc069d"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d91",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:07.659Z"
+  },
+  "fullName": "browser-use/jev-ultrafast",
+  "primaryLanguage": "Python",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "23539"
+  },
+  "forkCount": {
+    "$numberLong": "1776"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031714b40e624acc069e"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d92",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:07.893Z"
+  },
+  "fullName": "robbietilton/Compositor",
+  "primaryLanguage": "Swift",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17781"
+  },
+  "forkCount": {
+    "$numberLong": "1755"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031814b40e624acc069f"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d93",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:08.153Z"
+  },
+  "fullName": "Ebony-Vinyl/dsh-our-free-model",
+  "primaryLanguage": "JavaScript",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "39157"
+  },
+  "forkCount": {
+    "$numberLong": "1123"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031814b40e624acc06a0"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d94",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:08.455Z"
+  },
+  "fullName": "openai/math",
+  "primaryLanguage": "Lean",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15435"
+  },
+  "forkCount": {
+    "$numberLong": "1805"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031814b40e624acc06a1"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d95",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:08.755Z"
+  },
+  "fullName": "storytold/pdfcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "17444"
+  },
+  "forkCount": {
+    "$numberLong": "6688"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+},
+{
+  "_id": {
+    "$oid": "6adc031914b40e624acc06a2"
+  },
+  "repositoryId": "6ad05e5d9dc393e5a84f5d96",
+  "scanId": "6adc031014b40e624acc0685",
+  "scanDate": {
+    "$date": "2026-10-24T01:00:09.067Z"
+  },
+  "fullName": "storytold/filmcraft",
+  "primaryLanguage": "Rust",
+  "newRepository": false,
+  "starCount": {
+    "$numberLong": "15915"
+  },
+  "forkCount": {
+    "$numberLong": "6679"
+  },
+  "_class": "com.example.githubapiproject.model.RepositorySnapshot"
+}]
